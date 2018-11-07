@@ -1,2 +1,2 @@
 import webbrowser
-webbrowser.open("http://zadobkiddies.com")
+webbrowser.open("http://test.leopolo.com")
